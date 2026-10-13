@@ -2,7 +2,8 @@
 
 ## 📊 Executive Summary & Profitability Dashboard
 
-This project showcases an interactive **Sales Dashboard built using Microsoft Excel** to analyze business performance, profitability, and sales trends. It provides key insights into revenue, gross profit, cost of goods sold (COGS), units sold, and order volume through dynamic visualizations and interactive filters.
+This project showcases an interactive **Sales Dashboard built using Microsoft Excel** to analyze business performance, profitability, and sales trends. It provides key insights into revenue, gross profit, cost of goods sold (COGS), units sold, and order volume through dynamic visualizations and interactive filters.<img width="1312" height="798" alt="Screenshot 2026-10-13 133914" src="https://github.com/user-attachments/assets/b73a6886-bbf6-4275-adac-0313ca1d7213" />
+
 
 ### Key Features
 - **KPI Summary:** Total Revenue, Total Gross Profit, Gross Profit Margin, Total Units Sold, Total Orders, and COGS.
